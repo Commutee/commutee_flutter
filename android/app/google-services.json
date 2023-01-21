@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613269702765",
+    "project_id": "commutee-flutter-c2",
+    "storage_bucket": "commutee-flutter-c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613269702765:android:7fed0ccb9f3c7f80525764",
+        "android_client_info": {
+          "package_name": "com.example.commutee_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613269702765-n1c9h2p99aigp7jq2mqpavk3i90qb01b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyIdc0AKJtk2VeqLNW78afDpxzWLze608"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613269702765-n1c9h2p99aigp7jq2mqpavk3i90qb01b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
